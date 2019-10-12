@@ -39,7 +39,7 @@ head: # 删改前确定知道自己在做什么
   - key: name
     value: baidu-site-verification
   - key: content
-    value: bEFDJ1LvXb
+    value: WB4DESWSJn
 - tag: meta # yandex站点验证
   var:
   - key: name
@@ -67,13 +67,13 @@ head: # 删改前确定知道自己在做什么
   - key: rel
     value: apple-touch-icon-precomposed
   - key: href
-    value: //www.gravatar.com/avatar/a12c5fff23dde00df79af9aca4e7b6e4?d=wavatar&s=144
+    value: //en.gravatar.com/userimage/173300172/e37eb556561fa1d32dcb81de00e41e84.jpg?size=144
 - tag: link # 小图标，同上
   var:
   - key: rel
     value: 'shortcut icon'
   - key: href
-    value: //www.gravatar.com/avatar/a12c5fff23dde00df79af9aca4e7b6e4?d=wavatar&s=32
+    value: //en.gravatar.com/userimage/173300172/e37eb556561fa1d32dcb81de00e41e84.jpg?size=32
 - tag: link # 下面是博客的css，有些插件的css是单独在插件里引用的，假如需要自己的css可以仿照去加在后面。无脑cdn加速了。
   var:
   - key: rel
@@ -174,7 +174,7 @@ PrismJS: # 代码高亮插件，可以在https://prismjs.com/download.html自己
 sidebar:
   avatar: # 侧边栏显示的头像
     enable: true
-    img: //www.gravatar.com/userimage/173300172/e37eb556561fa1d32dcb81de00e41e84.jpg?size=600 # 头像的地址
+    img: //en.gravatar.com/userimage/173300172/e37eb556561fa1d32dcb81de00e41e84.jpg?size=600 # 头像的地址
     info: <br/>70后<br/>从事计算机code<br/>享受有趣<br/>好玩的人生<br/>Kimble # 头像背后的信息
   description: '<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=100% height=52 src="//music.163.com/outchain/player?type=2&id=5241597&auto=1&height=32"></iframe>'
   social:
