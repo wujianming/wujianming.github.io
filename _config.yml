@@ -6,7 +6,7 @@ permalink: /posts/:categories/:title # 博文目录
 baseurl: "" # 假如你的博客是建在某个目录下的，请在这里加上目录名，并且下面配置的所有链接里的`/public`前也要加，即`/your_baseurl/public`。这一项结尾不要有'/'
 
 title: daily_life
-url: https://wujianming.github.io/daily_life/
+url: https://wujianming.github.io/
 author: wujianming
 
 head: # 删改前确定知道自己在做什么
@@ -181,24 +181,24 @@ sidebar:
   - title: rss
     href: /atom.xml
     class: 'fas fa-rss fa-fw'
-  - title: wu.kan@foxmail.com # email
-    href: mailto:wu.kan@foxmail.com
+  - title: wujm_xa@qq.com # email
+    href: mailto:wujm_xa@qq.com
     class: 'fas fa-envelope fa-fw'
-  - title: WuK # codeforces
-    href: //codeforces.com/profile/WuK
+  - title: wujm_xa # codeforces
+    href: //codeforces.com/profile/wujm_xa
     class: 'fas fa-chart-bar fw'
-  - title: WuK # vjudge
-    href: //vjudge.net/user/WuK
+  - title: wujm_xa # vjudge
+    href: //vjudge.net/user/wujm_xa
     class: 'fas fa-smile fa-fw'
-  - title: 942759535 # qq
+  - title: 13968801 # qq
     class: 'fab fa-qq fa-fw'
-  - title: Wu-_-Kan # weixin
+  - title: wujianming # weixin
     class: 'fab fa-weixin fa-fw'
   - title: github
     href: //github.com/wujianming
     class: 'fab fa-github fa-fw'
   - title: zhihu
-    href: //www.zhihu.com/people/wu.kan/activities
+    href: //www.zhihu.com/people/wu-jing-bo/activities
     class: 'fab fa-zhihu fa-fw'
   nav:
   - title: '<i class="fas fa-home fa-fw"></i> 首页'
