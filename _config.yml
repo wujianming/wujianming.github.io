@@ -45,7 +45,7 @@ head: # 删改前确定知道自己在做什么
   - key: name
     value: yandex-verification
   - key: content
-    value: 52253e02830b443c
+    value: 69bd61f6529fecd5
 - tag: link
   var:
   - key: rel
