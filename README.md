@@ -155,11 +155,6 @@ Live2D来自于[stevenjoezhang/live2d-widget](https://github.com/stevenjoezhang/
 - 模块化·初步
 - 博客搜索实现
 
-### 2019-02-01
-
-- [署名-相同方式共享 4.0 国际](https://creativecommons.org/licenses/by-sa/4.0/deed.zh)。
-- 社会主义核心价值观点击特效，感谢[dujin](https://www.dujin.org/9088.html)。
-- 打赏。
 
 ### 2019-01-31
 
@@ -245,5 +240,4 @@ Live2D来自于[stevenjoezhang/live2d-widget](https://github.com/stevenjoezhang/
 ### 2018-11-15
 
 - 在Github上成功部署博客
-- 成功迁移[原CSDN博客](https://blog.csdn.net/w_weilan)上的所有文章
 - live2d
