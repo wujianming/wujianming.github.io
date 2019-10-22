@@ -248,7 +248,7 @@ sidebar:
     second: 秒
   copyright:
     enable: true
-    text: '<script async defer src="https://buttons.github.io/buttons.js"></script><script data-ad-client="ca-pub-4950475323693261" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><a class="github-button" aria-label="Star wujianming/wujianming.github.io on GitHub" href="https://github.com/wujianming/wujianming.github.io" data-icon="octicon-star" data-show-count="true">Star</a>'
+    text: '<script async defer src="https://buttons.github.io/buttons.js"></script><script data-ad-client="ca-pub-4950475323693261" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>'
 
 index:
   showtag:
