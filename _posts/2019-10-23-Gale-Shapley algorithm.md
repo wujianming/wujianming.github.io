@@ -8,7 +8,8 @@ tags: 算法
 
 ## 问题
 
-设4男4女，他们各自对异性的钟情程度如下表
+设4男4女，他们各自对异性的钟情程度如下表</br>
+
 
 **男** | **钟情女子**（钟情程度按顺序严格递减）
 ---|---
@@ -16,7 +17,6 @@ Man1|Woman1、Woman2、Woman3、Woman4
 Man2|Woman1、Woman3 Woman2 Woman4
 Man3|Woman3、Woman2、Woman1、Woman4
 Man4|Woman4、Woman2、Woman1、Woman3
-
 
 **女子** | **暗恋男子**（暗恋程度按顺序严格递减）
 ---|---
@@ -138,7 +138,9 @@ public class StableMatching {
 }
 ```
 
-```plaintext
+下为输入数据。
+
+```data.txt
 Man1 Woman1 Woman2 Woman3 Woman4
 Man2 Woman1 Woman3 Woman2 Woman4
 Man3 Woman3 Woman2 Woman1 Woman4
@@ -160,10 +162,9 @@ Woman4 Man4
 
 
 ## 结论
-1. 男子主动策略是男子的最佳策略！
-2. 男子主动策略是女子的最差策略！
+1. 男子主动策略是男子的最佳策略
+2. 男子主动策略是女子的最差策略
 
 ## 启示
-1. 先下手为强，后下手遭殃。
-2. 务必学号数学
+- 爱要大胆一点。不论是男生还是女生，主动追求永远比被动等待更有希望获得幸福。
 
