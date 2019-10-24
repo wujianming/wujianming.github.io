@@ -12,14 +12,14 @@ tags: 算法
 
 
 **男** | **钟情女子**（钟情程度按顺序严格递减）
----|---
+:---|:---
 Man1|Woman1、Woman2、Woman3、Woman4
 Man2|Woman1、Woman3、Woman2、Woman4
 Man3|Woman3、Woman2、Woman1、Woman4
 Man4|Woman4、Woman2、Woman1、Woman3
 
 **女子** | **暗恋男子**（暗恋程度按顺序严格递减）
----|---
+:---|:---
 Woman1|Man2、Man1、Man3、Man4
 Woman2|Man1、Man3、Man2、Man4
 Woman3|Man3、Man4、Man2、Man1
