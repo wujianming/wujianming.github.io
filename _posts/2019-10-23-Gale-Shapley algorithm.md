@@ -14,7 +14,7 @@ tags: 算法
 **男** | **钟情女子**（钟情程度按顺序严格递减）
 ---|---
 Man1|Woman1、Woman2、Woman3、Woman4
-Man2|Woman1、Woman3 Woman2 Woman4
+Man2|Woman1、Woman3、Woman2、Woman4
 Man3|Woman3、Woman2、Woman1、Woman4
 Man4|Woman4、Woman2、Woman1、Woman3
 
@@ -168,3 +168,10 @@ Woman4 Man4
 ## 启示
 - 爱要大胆一点。不论是男生还是女生，主动追求永远比被动等待更有希望获得幸福。
 
+```
+仔细想想这个算法，本质上就是将就：
+
+1、男：就这么个恐龙！哎，比上不足，比下有余；
+2、女：心仪的白马王子已经有主，这辈子就这命了，嫁鸡随鸡，嫁狗。
+算法非常简单，但它却补充了“价高者得。”这一最基本的市场规律，因而对经济学产生了重要的意义。
+```
