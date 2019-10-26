@@ -176,7 +176,7 @@ sidebar:
     enable: true
     img: //en.gravatar.com/userimage/173300172/e37eb556561fa1d32dcb81de00e41e84.jpg?size=600 # 头像的地址
     info: <br/>Kimble,70后<br/>从事计算机code<br/>享受有趣<br/>好玩的人生<br/> # 头像背后的信息
-  description: '<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=100% height=52 src="//music.163.com/outchain/player?type=2&id=513044387&auto=1&height=32"></iframe>'
+  description: '<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=100% height=52 src="//music.163.com/outchain/player?type=2&id=5241597&auto=1&height=32"></iframe>'
   social:
   - title: rss
     href: /atom.xml
